@@ -31,33 +31,33 @@ This challenge seems simple compared to the last.
 ### Step 1: Split the Data (Training/Testing)
 
 - [x] Read in static data
-- [ ] Make initial prediction which of the two models will be better
-- [ ] Separate data into features (X) and target (y) values
-- [ ] Check the balance of y values
-- [ ] Split the data into training and testing sets
+- [x] Make initial prediction which of the two models will be better
+- [x] Separate data into features (X) and target (y) values
+- [x] Check the balance of y values
+- [x] Split the data into training and testing sets
 
 ### Step 2: Scale the Features
 
-- [ ] Instantiate StandardScaler
-- [ ] Fit the training data
-- [ ] Scale training and testing data
+- [x] Instantiate StandardScaler
+- [x] Fit the training data
+- [x] Scale training and testing data
 
 ### Step 4: Create a Logistic Regression Model
 
-- [ ] Fit training data to model with random state 1
-- [ ] Save predictions of testing data
-- [ ] Evaluate performance
+- [x] Fit training data to model with random state 1
+- [x] Save predictions of testing data
+- [x] Evaluate performance
 
 ### Step 5: Create a Random Forest Model
 
-- [ ] Fit training data to model with random state 1
-- [ ] Save predictions of testing data
-- [ ] Evaluate performance
+- [x] Fit training data to model with random state 1
+- [x] Save predictions of testing data
+- [x] Evaluate performance
 
 ### Step 6: Evaluate Models
 
-- [ ] Answer: Which model performed better?
-- [ ] Answer: How does that compare to your prediction?
+- [x] Answer: Which model performed better?
+- [x] Answer: How does that compare to your prediction?
 
 
 ## Running the Program
