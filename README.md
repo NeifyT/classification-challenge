@@ -68,7 +68,7 @@ The program folder contains the completed notebook which can be run cell by cell
 spam_detector.ipynb
 ```
 
-The outputs for all cells in the notebook have been saved to retain any possible anomalies between different package versions. The notebook cells could be run from top to bottom. Outputs will closely resemble those displayed in the original starter code file, but may vary.
+The outputs for all cells in the notebook have been saved to retain any possible anomalies between different package versions. Specifically, I note a slight difference in accuracy scores between Scikit-Learn versions 1.3 and 1.4 (with 1.3 being slightly better). The notebook cells could be run from top to bottom. Outputs will closely resemble those displayed in the original starter code file, but may vary.
 
 ## Data Analysis Answers
 
